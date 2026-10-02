@@ -1,6 +1,3 @@
-# wazuh-security-monitoring-lab
-Wazuh lab covering Windows endpoint monitoring, authentication events, account and group changes, and real-time file integrity monitoring.
-
 # Wazuh Security Monitoring Lab
 
 This lab demonstrates deploying Wazuh on Ubuntu, connecting a Windows endpoint, investigating security events, and monitoring file changes.
